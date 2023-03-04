@@ -7,7 +7,7 @@
  * Return: a pointer to the encoded string.
  */
 
-char *rot13(char *str)
+char *rot13(char *)
 {
 	int index1 = 0, index2;
 	char alphabet[52] = {'A', 'B', 'C', 'D', 'E', 'F',
